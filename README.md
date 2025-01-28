@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github solution]([https://your-solution-url.com](https://github.com/lordymarc/QR-code-component?tab=readme-ov-file))
+- Live Site URL: [Live Site 4K for Free]([https://lordymarc.github.io/QR-code-component/])
 
 ## My process
 
@@ -31,8 +31,6 @@
 - CSS custom properties
 - Flexbox
 - Love
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 how to center divs inside the body yk
@@ -67,7 +65,7 @@ Grid and Flexboxes still confuse me. I'll work on them pinky promise
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lordymarc)
+- Frontend Mentor - [@lordymarc](https://www.frontendmentor.io/profile/lordymarc)
 
 ## Acknowledgments
 
