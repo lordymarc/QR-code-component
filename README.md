@@ -64,7 +64,6 @@ Grid and Flexboxes still confuse me. I'll work on them pinky promise
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@lordymarc](https://www.frontendmentor.io/profile/lordymarc)
 
 ## Acknowledgments
