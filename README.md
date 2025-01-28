@@ -21,7 +21,7 @@
 ### Links
 
 - Solution URL: [Github solution](https://github.com/lordymarc/QR-code-component?tab=readme-ov-file)
-- Live Site URL: [Live Site 4K for Free](https://lordymarc.github.io/QR-code-component/)
+- Live Site URL: [Live Site 4K for Free](https://qr-code-component-sooty-tau.vercel.app/)
 
 ## My process
 
