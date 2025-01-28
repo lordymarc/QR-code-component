@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [Github solution]([https://your-solution-url.com](https://github.com/lordymarc/QR-code-component?tab=readme-ov-file))
-- Live Site URL: [Live Site 4K for Free]([https://lordymarc.github.io/QR-code-component/])
+- Solution URL: [Github solution](https://github.com/lordymarc/QR-code-component?tab=readme-ov-file)
+- Live Site URL: [Live Site 4K for Free](https://lordymarc.github.io/QR-code-component/)
 
 ## My process
 
