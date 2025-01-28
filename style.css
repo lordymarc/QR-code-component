@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body{
   background-color: #D5E1EF;
   display: flex;
@@ -5,8 +10,11 @@ body{
   justify-content: center;
   align-items: center;
   height: 100vh;
-  row-gap: 15px;
   font-family: Outfit, sans-serif;
+}
+
+main{
+  margin-bottom: 15px;
 }
 .QR-container{
   background-color: #FFFFFF;
@@ -15,7 +23,6 @@ body{
   border-radius: 20px;
   box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.047);
   padding: 16px 16px 40px 16px;
-  box-sizing: border-box;
 }
 .QR-image{
   display: block;
@@ -33,7 +40,6 @@ body{
   line-height: 120%;
   letter-spacing: 0px;
   color: #1F314F;
-  margin-top: 0;
   margin-bottom: 16px;
 }
 .text-description{
@@ -42,7 +48,6 @@ body{
   line-height: 140%;
   letter-spacing: 0.2px;
   color: #68778D;
-  margin: 0;
 }
 
 .attribution {
