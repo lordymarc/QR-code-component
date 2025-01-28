@@ -37,11 +37,19 @@ how to center divs inside the body yk
 
 ```html
 <body>
-  <div class="QR-container">
-  <div class="attribution">
+  <main>
+    ...
+  </main>
+  <footer class="attribution">
+    ...
+  </footer>
 </body>
 ```
 ```css
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
 body{
   background-color: #D5E1EF;
   display: flex;
@@ -49,8 +57,10 @@ body{
   justify-content: center;
   align-items: center;
   height: 100vh;
-  row-gap: 15px;
   font-family: Outfit, sans-serif;
+}
+main{
+  margin-bottom: 15px;
 }
 ```
 
